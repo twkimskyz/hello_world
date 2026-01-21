@@ -6,5 +6,6 @@ int main(void)
     printf("v1\n");
     printf("v2\n");
     printf("v3\n");
+    printf("branch1\n");
     return 0;
 }
